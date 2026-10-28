@@ -1,6 +1,6 @@
 // FE Civil Drill service worker: caches the app so it works offline.
 // Bump VERSION whenever index.html changes so installed copies update.
-const VERSION = 'fe-drill-v775-1793212830';
+const VERSION = 'fe-drill-v888-1793229939';
 const FILES = [
   './', './index.html', './manifest.webmanifest',
   './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png', './favicon.png',
